@@ -1,4 +1,85 @@
 {
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json",
+  "type": "Manifest",
+  "label": {
+    "de": ["Sternatlas: Nord- und Südhimmel"]
+  },
+  "summary": {
+    "de": ["Zusammenstellung aus zwei e-rara-Digitalisaten: Nordhimmel- und Südhimmelkarte, die sich um ca. 1° überlappen."]
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/nord",
+      "type": "Canvas",
+      "label": { "de": ["Nordhimmel (e-rara 22135371)"] },
+      "height": 2607,
+      "width": 2079,
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/nord/annotation-page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/nord/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/nord",
+              "body": {
+                "id": "https://www.e-rara.ch/i3f/v20/22162843/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2607,
+                "width": 2079,
+                "service": [
+                  {
+                    "id": "https://www.e-rara.ch/i3f/v20/22162843",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/sued",
+      "type": "Canvas",
+      "label": { "de": ["Südhimmel (e-rara 27722986)"] },
+      "height": 2607,
+      "width": 2079,
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/sued/annotation-page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/sued/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/sued",
+              "body": {
+                "id": "https://www.e-rara.ch/i3f/v20/27722994/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2607,
+                "width": 2079,
+                "service": [
+                  {
+                    "id": "https://www.e-rara.ch/i3f/v20/27722994",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+{
   "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/kombiniert",
   "type": "Canvas",
   "label": { "de": ["Nord- und Südhimmel kombiniert"] },
@@ -39,5 +120,7 @@
         }
       ]
     }
+  ]
+}
   ]
 }
