@@ -108,12 +108,12 @@
           "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/kombiniert/annotation/sued",
           "type": "Annotation",
           "motivation": "painting",
-          "target": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/kombiniert#xywh=0,1340,2079,2607",
+          "target": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/kombiniert#xywh=0,2393,2079,2407",
           "body": {
             "id": "https://www.e-rara.ch/i3f/v20/22162843/0,200,2079,2407/max/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
-            "height": 2607,
+            "height": 2407,
             "width": 2079,
             "service": [{ "id": "https://www.e-rara.ch/i3f/v20/22162843", "type": "ImageService2", "profile": "level2" }]
           }
