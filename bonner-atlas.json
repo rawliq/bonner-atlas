@@ -13,8 +13,8 @@
       "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/nord",
       "type": "Canvas",
       "label": { "de": ["Nordhimmel (e-rara 22135371)"] },
-      "height": 2607,
-      "width": 2079,
+      "height": 12576,
+      "width": 11340,
       "items": [
         {
           "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/nord/annotation-page/1",
