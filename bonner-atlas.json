@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/main/bonner-atlas.json",
+  "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json",
   "type": "Manifest",
   "label": {
     "de": ["Sternatlas: Nord- und Südhimmel"]
@@ -10,21 +10,21 @@
   },
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/main/bonner-atlas.json/canvas/nord",
+      "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/nord",
       "type": "Canvas",
       "label": { "de": ["Nordhimmel (e-rara 22135371)"] },
       "height": 2607,
       "width": 2079,
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/main/bonner-atlas.json/canvas/nord/annotation-page/1",
+          "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/nord/annotation-page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/main/bonner-atlas.json/canvas/nord/annotation/1",
+              "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/nord/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://raw.githubusercontent.com/rawliq/bonner-atlas/main/bonner-atlas.json/canvas/nord",
+              "target": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/nord",
               "body": {
                 "id": "https://www.e-rara.ch/i3f/v20/22162843/full/max/0/default.jpg",
                 "type": "Image",
@@ -45,21 +45,21 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/main/bonner-atlas.json/canvas/sued",
+      "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/sued",
       "type": "Canvas",
       "label": { "de": ["Südhimmel (e-rara 27722986)"] },
       "height": 2607,
       "width": 2079,
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/main/bonner-atlas.json/canvas/sued/annotation-page/1",
+          "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/sued/annotation-page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/main/bonner-atlas.json/canvas/sued/annotation/1",
+              "id": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/sued/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://raw.githubusercontent.com/rawliq/bonner-atlas/main/bonner-atlas.json/canvas/sued",
+              "target": "https://raw.githubusercontent.com/rawliq/bonner-atlas/refs/heads/main/bonner-atlas.json/canvas/sued",
               "body": {
                 "id": "https://www.e-rara.ch/i3f/v20/27722994/full/max/0/default.jpg",
                 "type": "Image",
